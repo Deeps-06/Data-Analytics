@@ -1,0 +1,21 @@
+﻿User ID,Course ID,Enrollment Date,Completion Status,Time spent(mins),Number of logins,Age Group,Preferred learning,Course Category
+1,101,12-06-2018,yes,400,8,18-25,Morning,Programming
+2,102,13-06-2018,no,500,5,18-25,Afternoon,Design
+3,103,14-06-2018,yes,600,6,18-25,Evening,Business
+4,104,15-06-2018,no,650,7,26-35,Morning,Programming
+5,105,16-06-2018,yes,750,8,18-25,Afternoon,Design
+6,106,17-06-2018,no,300,4,18-25,Evening,Business
+7,107,18-06-2018,no,200,2,18-25,Evening,Programming
+8,108,19-06-2018,no,150,3,18-25,Evening,Programming
+9,109,20-06-2018,no,250,3,18-25,Afternoon,Programming
+10,110,21-06-2018,yes,350,4,26-35,Evening,Business
+11,111,22-06-2018,yes,450,5,26-35,Evening,Business
+12,112,23-06-2018,no,600,7,26-35,Afternoon,Business
+13,113,24-06-2018,yes,700,8,18-25,Morning,Design
+14,114,25-06-2018,no,850,9,26-35,Morning,Business
+15,115,26-06-2018,yes,900,10,18-25,Morning,Programming
+16,116,27-06-2018,no,750,8,18-25,Evening,Design
+17,117,28-06-2018,yes,450,5,26-35,Evening,Business
+18,118,29-06-2018,yes,500,6,18-25,Evening,Programming
+19,119,30-06-2018,yes,550,6,26-35,Afternoon,Business
+20,120,01-07-2018,no,480,6,18-25,Afternoon,Programming
